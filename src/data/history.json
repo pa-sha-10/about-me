@@ -1,0 +1,29 @@
+[
+  {
+    "role": "DSA",
+    "organisation": "Data Structure & Algo",
+    "startDate": "2021",
+    "endDate": "Present",
+    "experiences": ["Solved 450+ questions across all platform","Ranked 11324 gobally in Biweekly Contest 134","Rated 1514 at Leetcode"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "NDA 148",
+    "organisation": "UPSC",
+    "startDate": "Apr 2022",
+    "endDate": "May 2022",
+    "experiences": ["Secured All India Rank 51", "Cleared SSB at SCS Bangalore"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "JEE",
+    "organisation": "Mains & Advanced",
+    "startDate": "Feb, 2021",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Secured 97.6+ percentile",
+      "Cleared Advanced"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

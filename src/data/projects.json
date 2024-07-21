@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Chat Mate",
+    "imageSrc": "projects/project.png",
+    "description": "Real time chat app.",
+    "skills": ["React", "Express", "Node","MOngoDB","Socket.io"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/pa-sha-10/Chat-Mate"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project1.png",
+    "description": "A breif description of my skills,education and my works.",
+    "skills": ["React JS", "Node JS","CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/pa-sha-10/about-me"
+  },
+  {
+    "title": "Euro 2024",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Jupyter", "Python", "Pandas"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
